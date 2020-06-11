@@ -1,0 +1,15 @@
+Package: org.mr.rocket
+Name: Rocket for Instagram
+Author: Majd Alfhaily
+Description: Save posts and view stories anonymously and do much more
+Maintainer: hmanhngrepo
+Version: 3.7.3k
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Depiction: https://mainrepo.org/package/851
+SileoDepiction: https://mainrepo.org/sileo/851
+Architecture: iphoneos-arm
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Filename: ./debs/rocket_3.7.3.deb
+Size: 7,516,770
+MD5sum: befaefe938dc089e030b576057881bf9
